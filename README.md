@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/tiny-swords.js/main/assets/banner.png" alt="Tiny Swords Banner" width="80%" />
+  <img src="https://img.itch.zone/aW1nLzIxNjU3NTc3LmdpZg==/original/%2Fox25r.gif" alt="Tiny Swords Banner" width="80%" />
 </p>
 
 ---
