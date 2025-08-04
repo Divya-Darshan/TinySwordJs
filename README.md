@@ -40,7 +40,8 @@
 
 ## 🖌️ Credits
 
-Made with ❤️ by [Divyadarshan](https://github.com/Divya-Darshan)  
+Made with ❤️ by [Divyadarshan](https://github.com/Divya-Darshan) 
+Java Script Lib [Kaboom.js](https://kaboomjs.com/)    
 Game assets from the **Tiny Swords** pack created by [Pixel Frog](https://pixelfrog-assets.itch.io/)  
 Original asset page: [https://pixelfrog-assets.itch.io/tiny-swords](https://pixelfrog-assets.itch.io/tiny-swords)  
 
