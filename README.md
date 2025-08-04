@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1nLzIxNjU3NTc3LmdpZg==/original/%2Fox25r.gif" alt="Tiny Swords Banner" width="100vw" />
+  <img src="https://img.itch.zone/aW1nLzIxNjU3NTc3LmdpZg==/original/%2Fox25r.gif" alt="Tiny Swords Banner" width="100%" />
 </p>
 
 ---
@@ -21,15 +21,17 @@
 - 🗺️ **Open World** — Freely explore villages, forests, rivers & ruins  
 - 🎨 **Pixel Perfect** — All art from the beautiful free Tiny Swords pack  
 
-
 ---
 
 ## 🚀 Get Started
 
-Play Now!!
-Click here
+**▶️ [Click here to play the game]([https://your-deployed-game-link.com](https://divya-darshan.github.io/TinySwordJs/))**
+
+Or run it locally:
 
 ```bash
 # Clone the repo
 git clone https://github.com/your-username/TinySwordJs.git
 cd TinySwordJs
+npm install
+npm run dev
