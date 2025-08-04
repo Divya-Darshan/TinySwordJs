@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1nLzIxNjU3NTc3LmdpZg==/original/%2Fox25r.gif" alt="Tiny Swords Banner" width="80%" />
+  <img src="https://img.itch.zone/aW1nLzIxNjU3NTc3LmdpZg==/original/%2Fox25r.gif" alt="Tiny Swords Banner" width="100vw" />
 </p>
 
 ---
@@ -21,18 +21,13 @@
 - 🗺️ **Open World** — Freely explore villages, forests, rivers & ruins  
 - 🎨 **Pixel Perfect** — All art from the beautiful free Tiny Swords pack  
 
----
-
-## ✨ Preview
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/tiny-swords.js/main/assets/screenshot1.png" width="45%">
-  <img src="https://raw.githubusercontent.com/your-username/tiny-swords.js/main/assets/screenshot2.gif" width="45%">
-</p>
 
 ---
 
 ## 🚀 Get Started
+
+Play Now!!
+Click here
 
 ```bash
 # Clone the repo
