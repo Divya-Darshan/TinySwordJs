@@ -25,13 +25,23 @@
 
 ## 🚀 Get Started
 
-**▶️ [Click here to play the game]([https://your-deployed-game-link.com](https://divya-darshan.github.io/TinySwordJs/))**
+**▶️ [Click here to play the game](https://divya-darshan.github.io/TinySwordJs/)**
 
-Or run it locally:
+---
 
-```bash
-# Clone the repo
-git clone https://github.com/your-username/TinySwordJs.git
-cd TinySwordJs
-npm install
-npm run dev
+## 🛠️ Tech Stack
+
+| **Category**   | **Details**                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| Frontend       | [Kaboom.js](https://kaboomjs.com/)                                          |
+| Deployment     | [GitHub Pages](https://divya-darshan.github.io/TinySwordJs/)                |
+| Styling        | Pixel Art, Hand-crafted Assets from [Pixel Frog](https://pixelfrog-assets.itch.io/) |
+---
+
+## 🖌️ Credits
+
+Made with ❤️ by [Divyadarshan](https://github.com/Divya-Darshan)  
+Game assets from the **Tiny Swords** pack created by [Pixel Frog](https://pixelfrog-assets.itch.io/)  
+Original asset page: [https://pixelfrog-assets.itch.io/tiny-swords](https://pixelfrog-assets.itch.io/tiny-swords)  
+
+---
