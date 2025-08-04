@@ -36,5 +36,5 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/tiny-swords.js.git
-cd tiny-swords.js
+git clone https://github.com/your-username/TinySwordJs.git
+cd TinySwordJs
