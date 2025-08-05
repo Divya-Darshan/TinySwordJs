@@ -1,5 +1,5 @@
 <h1 align="center">
-  ⚔️ Tiny Swords.js
+  Tiny Swords.js
 </h1>
 
 <p align="center">
