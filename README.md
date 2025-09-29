@@ -7,11 +7,7 @@
   <strong>Fight. Build. Explore.</strong> All in one charming open world.
 </p>
 
-<p align="center">
-  <img src="https://img.itch.zone/aW1nLzIxNjU3NTc3LmdpZg==/original/%2Fox25r.gif" alt="Tiny Swords Banner" width="100%" />
-</p>
 
----
 
 ## 🎮 Features
 
@@ -21,13 +17,11 @@
 - 🗺️ **Open World** — Freely explore villages, forests, rivers & ruins  
 - 🎨 **Pixel Perfect** — All art from the beautiful free Tiny Swords pack  
 
----
 
 ## 🚀 Get Started
 
 **▶️ [Click here to play the game](https://divya-darshan.github.io/TinySwordJs/)**
 
----
 
 ## 🛠️ Tech Stack
 
